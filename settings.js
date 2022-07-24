@@ -21,12 +21,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
-global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.botname = 'VIHANGA MD BOT'
-global.footer = 'VIHANGA MD'
+global.owner = ['+94 70 224 6808]
+global.premium = [+94 70 224 6808']
+global.ownernomer = ''+94 70 224 6808
+global.ownername = NADUN MD〽️'
+global.botname = 'Nadun MD BOT'
+global.footer = 'NADUN MD'
 global.cap = '*Genarated By Vihanga Md*'
 global.ig = 'https://github.com/vihangabot'
 global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
